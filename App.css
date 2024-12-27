@@ -1,0 +1,34 @@
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 10px 0;
+    cursor: pointer;
+  }
+  
+  .profile {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    display: inline-block;
+    text-align: left;
+  }
+  
+  .profile img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto 10px;
+  }
+  
+  .profile h2,
+  .profile h3,
+  .profile p {
+    margin: 5px 0;
+  }
+  
